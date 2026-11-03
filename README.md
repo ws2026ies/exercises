@@ -9,10 +9,11 @@ please visit [https://github.com/ws2026ies/materials](https://github.com/ws2026i
 You can work in either:
 
 1. The cluster of the University **(currently down!)**
-2. Google Colab
-3. Your own computer
+2. DeepESDL
+3. Google Colab
+4. Your own computer
 
-## Working with the cluster of the University
+## 1. Working with the cluster of the University
 
 > [!CAUTION]
 > The cluster of the University is currently down. Please use Google Colab or your own computer!
@@ -21,7 +22,14 @@ You can work in the cluster of the University.
 
 Please visit [https://www.sc.uni-leipzig.de/](https://www.sc.uni-leipzig.de/) for more info.
 
-## Working with Google Colab
+## 2. Working with DeepESDL
+
+[DeepESDL](https://earthsystemdatalab.net/) is an online ESA-funded environment for working with Earth system data. It has a JupyterLab environment (see [guidelines here](https://earthsystemdatalab.net/guide/jupyterlab/)) for notebooks and access to the Earth Systema Data Cube (needed from Exercise 04).
+
+In order to sign in, GitHub usernames are required for onboarding.
+
+
+## 3. Working with Google Colab
 
 [Google Colab](https://colab.research.google.com/) is a Google-provided environment for notebooks.
 
@@ -32,7 +40,7 @@ After that time, if you have installed packages, you will have to install them a
 
 Each notebook in this repository has a link to a Colab session where you can work, just click the following badge on the corresponding notebook: [![colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
-## Working with your own computer
+## 4. Working with your own computer
 
 To work with your own computer, please install [miniconda](https://www.anaconda.com/download/success?reg=skipped).
 
