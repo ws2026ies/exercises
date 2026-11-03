@@ -24,12 +24,17 @@ Please visit [https://www.sc.uni-leipzig.de/](https://www.sc.uni-leipzig.de/) fo
 
 ## 2. Working with DeepESDL
 
+> [!IMPORTANT]
+> From Exercise 04 this platform will be used!
+
 [DeepESDL](https://earthsystemdatalab.net/) is an online ESA-funded environment for working with Earth system data. It has a JupyterLab environment (see [guidelines here](https://earthsystemdatalab.net/guide/jupyterlab/)) for notebooks and access to the Earth Systema Data Cube (needed from Exercise 04).
 
 In order to sign in, GitHub usernames are required for onboarding.
 
-
 ## 3. Working with Google Colab
+
+> [!WARNING]
+> This platform can be used until Exercise 03!
 
 [Google Colab](https://colab.research.google.com/) is a Google-provided environment for notebooks.
 
