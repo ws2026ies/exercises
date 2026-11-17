@@ -1,5 +1,8 @@
 # Introduction to the Earth System | WiSe 26/27
 
+> [!WARNING]
+> If you are working on Exercise 04 in your own computer, you might not have enough resources to load the data. If that's the case, check [`xarray.tutorial.load_dataset`](https://docs.xarray.dev/en/latest/generated/xarray.tutorial.load_dataset.html). you can work with the `"ersstv5"` dataset, which contains Sea Surface Temperature (SST) in monthly aggregates, and it's way lighter.
+
 This repository contains the exercises
 for the course Introduction to the Earth System WiSe 26/27.
 
