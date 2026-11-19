@@ -1,6 +1,9 @@
 # Introduction to the Earth System | WiSe 26/27
 
-> [!WARNING]
+> [!IMPORTANT]
+> A coarser-resolution (in space and time) set of datasets used in Exercises 04-07 is now available in https://huggingface.co/datasets/davemlz/ws2026ies! (visit the previous [link](https://huggingface.co/datasets/davemlz/ws2026ies) for more information)
+
+> [!TIP]
 > If you are working on Exercise 04 in your own computer, you might not have enough resources to load the data. If that's the case, check [`xarray.tutorial.load_dataset`](https://docs.xarray.dev/en/latest/generated/xarray.tutorial.load_dataset.html). you can work with the `"ersstv5"` dataset, which contains Sea Surface Temperature (SST) in monthly aggregates, and it's way lighter.
 
 This repository contains the exercises
